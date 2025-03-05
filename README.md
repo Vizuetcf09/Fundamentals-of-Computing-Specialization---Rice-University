@@ -32,7 +32,7 @@ Skills:
   - "Graph Theory\r"
 Finish:
 ---
-This repository contains notes taken from the 'Fundamentals of Computing Specialization' course by Rice University, which is available on the Coursera platform.
+This repository contains notes taken from the '[Fundamentals of Computing Specialization](https://www.coursera.org/programs/universidad-autonoma-metropolitana-on-coursera-oo8cr/specializations/computer-fundamentals)' course by [Rice University](https://www.rice.edu/), which is available on the [Coursera](https://www.coursera.org/) platform.
 
 ## Introduction
 
