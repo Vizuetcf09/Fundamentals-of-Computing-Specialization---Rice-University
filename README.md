@@ -32,7 +32,8 @@ Skills:
   - "Graph Theory\r"
 Finish:
 ---
-# Introduction
+"This repository contains notes taken from the 'Fundamentals of Computing Specialization' course by Rice University, which is available on the Coursera platform."
+## Introduction
 
 Prepare for Advanced Computer Science Courses. Learn how to program and think like a Computer Scientist.
 
