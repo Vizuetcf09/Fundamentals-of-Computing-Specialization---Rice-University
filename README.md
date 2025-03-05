@@ -1,5 +1,6 @@
 ---
-Author: Vizuet Cruz Fernando Ivan
+Created by: Vizuet CF
+Specialization: Fundamentals of Computing Specialization
 University: Rice University
 Instructors:
   - Luay Nakhleh
