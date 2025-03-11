@@ -8,7 +8,7 @@ time = 0
 position = [60, 110]
 width = 200
 height = 200
-interval = 1000
+interval = 100
 
 # define helper function format that converts time
 # in tenths of seconds into formatted string A:BC.D
@@ -36,16 +36,13 @@ def format():
 def start():
     timer.start()
 
+
 def stop():
     timer.stop()
 
 def reset():
     global time
     time = 0
-
-# define event handler for timer with 0.1 sec interval
-def interval01():
-    pass # agregar función para agregar un segundo al intervalo
 
 # define draw handler
 def timer_draw_handler(canvas):
