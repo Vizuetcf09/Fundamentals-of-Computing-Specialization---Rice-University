@@ -5,7 +5,10 @@ import random
 
 # define global variables
 time = 0
+#successful_stops = 0
+#total_stops = 0
 position = [60, 110]
+#score_position = [150, 30]
 width = 200
 height = 200
 interval = 100
@@ -36,17 +39,31 @@ def format():
 def start():
     timer.start()
 
-
 def stop():
     timer.stop()
+
+#def stop():
+#    global total_stops, successful_stops
+#    if timer.is_running():
+#        timer.stop()
+#        total_stops += 1
+#        if time % 10 == 0:
+#            successful_stops += 1
 
 def reset():
     global time
     time = 0
 
+#def reset():
+#    global time, successful_stops, total_stops
+#    time = 0
+#    successful_stops = 0
+#    total_stops = 0
+
 # define draw handler
 def timer_draw_handler(canvas):
     canvas.draw_text(format(), position, 24, "White")
+    #    canvas.draw_text(f"{successful_stops}/{total_stops}", score_position, 20, "Green")
     
 # define handler timer
 def tick():
