@@ -52,7 +52,6 @@ This two-part course is designed to help students with very little or no computi
 In part 1 of this course, we will introduce the basic elements of programming (such as expressions, conditionals, and functions) and then use these elements to create simple interactive applications such as a digital stopwatch. Part 1 of this class will culminate in building a version of the classic arcade game "Pong".
 
 ---
-# Spetialization Link 
+# Course Link 
 
-1. [Fundamentals of Computing Specialization](https://www.coursera.org/programs/universidad-autonoma-metropolitana-on-coursera-oo8cr/specializations/computer-fundamentals)
-
+1. [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/programs/universidad-autonoma-metropolitana-on-coursera-oo8cr/learn/interactive-python-1)
